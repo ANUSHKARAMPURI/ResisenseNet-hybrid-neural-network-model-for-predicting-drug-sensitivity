@@ -1,4 +1,4 @@
-# Drug Repurposing in Breast Cancer: Overcoming Drug Resistance with ResisenseNet
+# ResisenseNet hybrid neural network model for predicting drug sensitivity and repurposing in breast cancer
 
 ## Overview
 
